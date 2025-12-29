@@ -8,29 +8,20 @@ This project analyzes South African crime statistics using Microsoft Excel to id
   
 
 ##  Project Objectives
-- Clean and prepare raw crime data for analysis
-- Transform wide-format data into a tidy, analysis-ready structure
-- Perform exploratory data analysis using PivotTables
-- Build a professional and interactive Excel dashboard
-- Communicate insights clearly using data visualization
+- Clean and prepare raw crime data for analysis.
+- Transform wide-format data into a tidy, analysis-ready structure.
+- Perform exploratory data analysis using PivotTables.
+- Build a professional and interactive Excel dashboard.
+- Communicate insights clearly using data visualization.
 
 
 ##  Dataset
-[South African Police Service (SAPS) Crime Statistics.csv](data/)   
-**Coverage Includes:**
-- Provinces
-- Police stations
-- Crime categories
-- Reporting years (2005–2016)
-
-## Business Questions
-- Which provinces report the most crime overall?
-- Is crime increasing or decreasing over time?
-- Which crime types dominate national statistics?
-- What are the crime categories dominating each province?
-
-##  Data Cleaning & Preparation
-The raw dataset required several cleaning and transformation steps before analysis.
+### SouthAfricanCrimeStats.csv   
+Coverage Includes:
+- Provinces.
+- Police stations.
+- Crime categories.
+- Reporting years (2005–2016).
 
 ### Cleaning Steps
 - Converted the CSV file to Excel format.
@@ -40,7 +31,14 @@ The raw dataset required several cleaning and transformation steps before analys
 - Converted multiple year columns into a tidy format using Power Query.
 - Ensured correct data types for all columns.
 
-## 📈 Dashboard Features
+## Business Questions
+- What are the top two provinces that report the most crime overall?
+- Is crime increasing or decreasing over time?
+- Which crime types dominate national statistics?
+- What are the crime categories dominating each province?
+
+
+##  Dashboard Features
 The Excel dashboard includes the following components:
 
 - **Bar Chart:** Total reported crime by province.  
@@ -50,6 +48,11 @@ The Excel dashboard includes the following components:
 - **Slicers:** Interactive filters for Province, Category, and Year.  
 
 
-### Final Data Structure
-Each row in the cleaned dataset represents:
+## Key Insights
+The top two provinces that report the most crime:
+- Gauteng.
+- Western Cape.
+- Kwazulu Natal. 
+Crime trends show noticeable changes over time.
+A small number of crime categories account for a large share of reported cases.
 
