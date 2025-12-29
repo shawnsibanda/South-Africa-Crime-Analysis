@@ -60,7 +60,7 @@ The Excel dashboard includes the following components:
 - While overall crime may decline, some specific crime categories show upward trends, highlighting emerging risks that require monitoring.
 - Certain provinces like Free State and Mpumalanga, demonstrate reductions in reported crime over time, potentially reflecting effective local policing strategies or behavioural improvements.
 
-## Recommendations to help reduce the crime rates.
+## Recommendations to help reduce the crime rates
 - Focus law-enforcement resources on provinces contributing the largest share of national crime.
 - Design tailored strategies per crime category, rather than using a single national approach. For example: GBV - community patrols, property damage - CCTV.
 - Invest in community programmes such as Neighborhood Watches, in areas with persistent high crime rates.
