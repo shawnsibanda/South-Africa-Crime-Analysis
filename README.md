@@ -49,7 +49,7 @@ The Excel dashboard includes the following components:
 
 
 ## Key Insights
-- The top two provinces that report the most crime:
+- The top three provinces that report the most crime:
 1. Gauteng.
 2. Western Cape.
 3. Kwazulu Natal.
