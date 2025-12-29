@@ -36,6 +36,8 @@ Coverage Includes:
 - Is crime increasing or decreasing over time?
 - Which crime types dominate national statistics?
 - What are the crime categories dominating each province?
+- Are certain crime categories increasing or decreasing over time?
+- Which provinces show the most significant long-term improvement?
 
 
 ##  Dashboard Features
@@ -55,4 +57,11 @@ The Excel dashboard includes the following components:
 3. Kwazulu Natal.
 - Crime trends show noticeable changes over time.
 - A small number of crime categories account for a large share of reported cases.
+- While overall crime may decline, some specific crime categories show upward trends, highlighting emerging risks that require monitoring.
+- Certain provinces like Free State and Mpumalanga, demonstrate reductions in reported crime over time, potentially reflecting effective local policing strategies or behavioural improvements.
+
+## Recommendations to help reduce the crime rates.
+- Focus law-enforcement resources on provinces contributing the largest share of national crime.
+- Design tailored strategies per crime category, rather than using a single national approach. For example: GBV - community patrols, property damage - CCTV.
+- Invest in community programmes such as Neighborhood Watches, in areas with persistent high crime rates.
 
