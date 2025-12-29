@@ -4,7 +4,7 @@
 This project analyzes South African crime statistics using Microsoft Excel to identify crime patterns across provinces, crime category distribution, long-term trends, and crime specialization by province through an interactive Excel dashboard.
 
 ### Dashboard overview:
-[](visuals/SAPS.png)
+[South Africa Crime Analysis](visuals/SAPS.png)
   
 
 ##  Project Objectives
