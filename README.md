@@ -16,8 +16,7 @@ This project analyzes South African crime statistics using Microsoft Excel to id
 
 
 ##  Dataset
-**Source:** South African Police Service (SAPS) Crime Statistics  
-**File Type:** CSV  
+[South African Police Service (SAPS) Crime Statistics.csv](data/'SouthAfricanCrimeStats_v2)   
 **Coverage Includes:**
 - Provinces
 - Police stations
